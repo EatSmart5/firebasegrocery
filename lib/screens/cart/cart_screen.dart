@@ -92,7 +92,7 @@ class CartScreen extends StatelessWidget {
           const Spacer(),
           FittedBox(
             child: TextWidget(
-              text: 'Total: \$0.259',
+              text: 'Total: \₹${100}',
               color: color,
               textSize: 18,
               isTitle: true,

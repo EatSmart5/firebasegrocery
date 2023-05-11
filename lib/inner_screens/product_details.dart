@@ -50,7 +50,7 @@ class _ProductDetailsState extends State<ProductDetails> {
         Flexible(
           flex: 2,
           child: FancyShimmerImage(
-            imageUrl: 'https://i.ibb.co/F0s3FHQ/Apricots.png',
+            imageUrl: 'https://i.ibb.co/kcXcBkT/samosa2.png',
             boxFit: BoxFit.scaleDown,
             width: size.width,
             // height: screenHeight * .4,

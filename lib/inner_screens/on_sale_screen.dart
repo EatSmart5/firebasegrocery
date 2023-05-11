@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+  import 'package:flutter/material.dart';
 import 'package:flutter_iconly/flutter_iconly.dart';
 import 'package:grocery/widgets/on_sale_widget.dart';
 import 'package:grocery/widgets/text_widget.dart';

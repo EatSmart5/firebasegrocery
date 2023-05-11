@@ -50,7 +50,7 @@ class _FeedsScreenState extends State<FeedsScreen> {
               child: TextField(
                 focusNode: _searchTextFocusNode,
                 controller: _searchTextController,
-                onChanged: (valuee) {
+                onChanged: (value) {
                   setState(() {});
                 },
                 decoration: InputDecoration(

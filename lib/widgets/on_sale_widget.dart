@@ -42,7 +42,7 @@ class _OnSaleWidgetState extends State<OnSaleWidget> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       FancyShimmerImage(
-                        imageUrl: 'https://i.ibb.co/F0s3FHQ/Apricots.png',
+                        imageUrl: 'https://i.ibb.co/kcXcBkT/samosa2.png',
                         height: size.width * 0.22,
                         width: size.width * 0.22,
                         boxFit: BoxFit.fill,

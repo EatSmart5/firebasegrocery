@@ -59,7 +59,7 @@ class _CartWidgetState extends State<CartWidget> {
                         borderRadius: BorderRadius.circular(12.0),
                       ),
                       child: FancyShimmerImage(
-                        imageUrl: 'https://i.ibb.co/F0s3FHQ/Apricots.png',
+                        imageUrl: 'https://i.ibb.co/kcXcBkT/samosa2.png',
                         boxFit: BoxFit.fill,
                       ),
                     ),

@@ -47,7 +47,7 @@ class _FeedsWidgetState extends State<FeedsWidget> {
           borderRadius: BorderRadius.circular(12),
           child: Column(children: [
             FancyShimmerImage(
-              imageUrl: 'https://i.ibb.co/F0s3FHQ/Apricots.png',
+              imageUrl: 'https://i.ibb.co/kcXcBkT/samosa2.png',
               height: size.width * 0.21,
               width: size.width * 0.2,
               boxFit: BoxFit.fill,
@@ -111,7 +111,7 @@ class _FeedsWidgetState extends State<FeedsWidget> {
                               keyboardType: TextInputType.number,
                               maxLines: 1,
                               enabled: true,
-                              onChanged: (valueee) {
+                              onChanged: (value) {
                                 setState(() {});
                               },
                               inputFormatters: [
